@@ -49,5 +49,4 @@ build() {
 init
 clean
 install
-submodule
 build
