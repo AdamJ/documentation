@@ -1,6 +1,8 @@
 # Travis CI
-Travis CI configuration file when using Ruby as the base language.
+Travis CI configuration file examples.
 
+## Ruby
+Using Ruby as the base language: [travis-ruby.yaml](https://github.com/mindreeper2420/documentation/blob/master/travis-ci/travis-ruby.yml)
 ```yaml
 language: ruby
 cache: bundler
