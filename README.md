@@ -4,3 +4,9 @@ This repo is for storing various documents that I find useful when configuring m
 In some cases, I have replicated documents or scripts from other projects, generalizing the content for inclusion in this repo.
 
 All code, screenshots, and/or information included in this repo have been created by me, unless otherwise noted.
+
+- [Common files](https://github.com/mindreeper2420/documentation/tree/master/common/index.md)
+- [Scripts](https://github.com/mindreeper2420/documentation/tree/master/scripts/index.md)
+- [System configurations](https://github.com/mindreeper2420/documentation/tree/master/system-configurations/index.md)
+- [Travis-CI](https://github.com/mindreeper2420/documentation/tree/master/travis-ci/index.md)
+- [Terminal](https://github.com/mindreeper2420/documentation/tree/master/terminal/index.md)
