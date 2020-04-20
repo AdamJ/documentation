@@ -2,6 +2,7 @@
 Terminal commands and/or configurations
 
 ## Aliases
+[aliases.md](https://github.com/mindreeper2420/documentation/blob/master/terminal/aliases.md)
 ```bash
 $ alias gs='git status'
 $ alias ga='git add .'
