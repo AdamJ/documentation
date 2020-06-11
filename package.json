@@ -1,0 +1,23 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "Documentation of various scripts and setup that I use",
+  "main": "index.js",
+  "dependencies": {
+    "semantic-release": "^17.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindreeper2420/documentation.git"
+  },
+  "author": "Adam J. Jolicoeur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindreeper2420/documentation/issues"
+  },
+  "homepage": "https://github.com/mindreeper2420/documentation#readme"
+}
