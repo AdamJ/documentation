@@ -1,0 +1,20 @@
+scripts:
+  - scripts/*
+
+system-configurations:
+  - system-configurations/*
+
+terminal:
+  - terminal/*
+
+travis-ci:
+  - travis-ci/*
+
+common:
+  - common/*
+
+tools:
+  - ./*.{js,json,yml}
+
+documentation:
+  - ./**/*
