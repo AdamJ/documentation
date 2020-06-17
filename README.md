@@ -3,6 +3,10 @@ This repo is for storing various documents that I find useful when configuring m
 
 In some cases, I have replicated documents or scripts from other projects, generalizing the content for inclusion in this repo.
 
+Additionally, all builds are test-cases for possible inclusion in other projects. Versions/Tags/Releases are automatically generated using GitHub Actions.
+
+---
+
 All code, screenshots, and/or information included in this repo have been created by me, unless otherwise noted.
 
 - [Common files](https://github.com/mindreeper2420/documentation/tree/master/common/index.md)

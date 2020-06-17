@@ -3,18 +3,11 @@
   "version": "0.0.0-development",
   "description": "Documentation of various scripts and setup that I use",
   "main": "index.js",
-  "dependencies": {
-    "semantic-release": "^17.0.8"
-  },
-  "devDependencies": {
-    "semantic-release": "^17.0.8"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+  "engines": {
+    "node": ">=12.18.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
